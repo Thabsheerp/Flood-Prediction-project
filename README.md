@@ -1,7 +1,3 @@
-# Flood-Prediction-project
-Iot - Based Flood Prediction And Alert System
-
-
 #include "DHT.h"
 #define DHTPIN 19
 #define DHTTYPE DHT11
